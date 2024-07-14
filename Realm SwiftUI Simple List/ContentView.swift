@@ -45,7 +45,7 @@ struct ContentView: View {
             .padding()
             .disabled( selectedItem == nil )
             
-            Button("Delete Item", role: .destructive) {
+            Button("Delete Item!", role: .destructive) {
                 $items.remove(selectedItem!)
                 selectedItem = nil
             }

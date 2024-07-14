@@ -18,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		493E9F792C440E090086D073 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		493E9F7A2C440F0B0086D073 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		77A6B2FD2C41B7670090B366 /* Realm SwiftUI Simple List.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Realm SwiftUI Simple List.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77A6B3002C41B7670090B366 /* Realm_SwiftUI_Simple_ListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Realm_SwiftUI_Simple_ListApp.swift; sourceTree = "<group>"; };
 		77A6B3022C41B7670090B366 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +46,8 @@
 		77A6B2F42C41B7670090B366 = {
 			isa = PBXGroup;
 			children = (
+				493E9F7A2C440F0B0086D073 /* .gitignore */,
+				493E9F792C440E090086D073 /* README.md */,
 				77A6B2FF2C41B7670090B366 /* Realm SwiftUI Simple List */,
 				77A6B2FE2C41B7670090B366 /* Products */,
 			);
